@@ -1,6 +1,6 @@
-package Project_intermediate_02;
+package Project_intermediate_06;
 
-public class I12_MultipleMethodVarargs {
+public class I04_MultipleMethodVarargs {
     /*
 	Problem Tanımı :
 	farklı 4 öğrencinin sırasıyla 6,4,3 ve 5 yazılı notlarının ortalamasını

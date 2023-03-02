@@ -1,10 +1,10 @@
-package Project_intermediate_03;
+package Project_intermediate_06;
 
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class I12_DuplicateValue {
+public class I03_DuplicateValue {
        /*
         Write a code that returns the duplicate chars in a String array.
         (interview Question)

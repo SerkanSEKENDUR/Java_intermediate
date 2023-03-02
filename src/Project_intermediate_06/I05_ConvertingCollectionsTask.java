@@ -1,8 +1,8 @@
-package Project_intermediate_04;
+package Project_intermediate_06;
 
 import java.util.*;
 
-public class I13_ConvertingCollectionsTask {
+public class I05_ConvertingCollectionsTask {
     // create an array of random numbers of size 10
     // convert that array into a list
     // convert list into set

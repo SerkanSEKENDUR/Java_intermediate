@@ -1,8 +1,8 @@
-package Project_intermediate_03;
+package Project_intermediate_05;
 
 import java.util.Scanner;
 
-public class I11_ExponentialNumber {
+public class I09_ExponentialNumber {
     //Get 2 numbers from the user.
     //first number base
     //second number Top

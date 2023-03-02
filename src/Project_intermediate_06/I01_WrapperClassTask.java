@@ -1,8 +1,8 @@
-package Project_intermediate_04;
+package Project_intermediate_06;
 
 import java.util.Scanner;
 
-public class I11_WrapperClassTask {
+public class I01_WrapperClassTask {
     // create a method that accepts an int
     // and returns twice of that int
     // overload this method with wrapper class: Integer

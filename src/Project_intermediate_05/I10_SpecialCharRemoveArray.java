@@ -1,9 +1,9 @@
-package Project_intermediate_02;
+package Project_intermediate_05;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class I11_SpecialCharRemoveArray {
+public class I10_SpecialCharRemoveArray {
     /*
    Problem Tanımı :
    getSum isminde bir method oluşturun.
